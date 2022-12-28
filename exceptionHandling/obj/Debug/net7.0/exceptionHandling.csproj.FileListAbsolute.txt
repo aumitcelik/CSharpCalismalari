@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\bin\Debug\net7.0\exceptionHandling.exe
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\bin\Debug\net7.0\exceptionHandling.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\bin\Debug\net7.0\exceptionHandling.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\bin\Debug\net7.0\exceptionHandling.dll
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\bin\Debug\net7.0\exceptionHandling.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.dll
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\refint\exceptionHandling.dll
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\exceptionHandling.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\exceptionHandling\obj\Debug\net7.0\ref\exceptionHandling.dll
