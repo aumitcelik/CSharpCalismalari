@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\bin\Debug\net7.0\typeConversions.exe
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\bin\Debug\net7.0\typeConversions.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\bin\Debug\net7.0\typeConversions.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\bin\Debug\net7.0\typeConversions.dll
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\bin\Debug\net7.0\typeConversions.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.dll
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\refint\typeConversions.dll
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\typeConversions.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\typeConversions\obj\Debug\net7.0\ref\typeConversions.dll
