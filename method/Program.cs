@@ -15,6 +15,9 @@ namespace method
             deneme.Arttır(ref x, ref y);
             sonuc = deneme.Topla(x, y);
             deneme.ekranaYazdir(sonuc);
+            deneme.Arttır(ref x, ref y);
+            deneme.Topla(x, y, out sonuc);
+            deneme.ekranaYazdir(sonuc);
         }
 
     }
@@ -29,6 +32,14 @@ namespace method
         {
             return (x + y);
         }
+
+        //Metot Overloading 
+        public int Topla(int a, int b, out int toplam)// out değişkeninin bir ilk değeri olmak zorunda değildir. 
+        {
+            toplam = a + b;
+            return toplam;
+        }
+
         public void ekranaYazdir(int x)
         {
             Console.WriteLine(x);
