@@ -18,6 +18,11 @@ namespace method
             deneme.Arttır(ref x, ref y);
             deneme.Topla(x, y, out sonuc);
             deneme.ekranaYazdir(sonuc);
+
+            //Extension 
+            Console.WriteLine(x.IsEventNumber());
+            //Rekürsif+Extension
+            Console.WriteLine(1.FibonacciSerisi());
         }
 
     }
@@ -44,5 +49,25 @@ namespace method
         {
             Console.WriteLine(x);
         }
+
+
+    }
+
+    //Extension 
+    public static class MyExtensionClass
+    {
+        public static bool IsEventNumber(this int value)
+        {
+            if (value % 2 == 0)
+                return true;
+            else
+                return false;
+        }
+
+        public static int FibonacciSerisi(this int sayi)
+        {
+            return sayi == 0 ? 0 : sayi == 1 ? 1 : FibonacciSerisi(sayi - 1) + FibonacciSerisi(sayi - 2);
+        }
+
     }
 }
