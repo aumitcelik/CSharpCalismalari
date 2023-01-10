@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\bin\Debug\net7.0\datetimeMathMethods.exe
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\bin\Debug\net7.0\datetimeMathMethods.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\bin\Debug\net7.0\datetimeMathMethods.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\bin\Debug\net7.0\datetimeMathMethods.dll
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\bin\Debug\net7.0\datetimeMathMethods.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.dll
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\refint\datetimeMathMethods.dll
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\datetimeMathMethods.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\datetimeMathMethods\obj\Debug\net7.0\ref\datetimeMathMethods.dll
