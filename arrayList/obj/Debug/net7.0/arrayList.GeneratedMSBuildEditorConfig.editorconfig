@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = genericTypeCollections
-build_property.ProjectDir = c:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\
+build_property.RootNamespace = arrayList
+build_property.ProjectDir = C:\Users\umit\Desktop\CSharpCalismalari\arrayList\

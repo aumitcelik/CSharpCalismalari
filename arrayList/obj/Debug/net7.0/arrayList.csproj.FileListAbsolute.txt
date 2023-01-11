@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\bin\Debug\net7.0\arrayList.exe
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\bin\Debug\net7.0\arrayList.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\bin\Debug\net7.0\arrayList.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\bin\Debug\net7.0\arrayList.dll
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\bin\Debug\net7.0\arrayList.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.dll
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\refint\arrayList.dll
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\arrayList.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\arrayList\obj\Debug\net7.0\ref\arrayList.dll
