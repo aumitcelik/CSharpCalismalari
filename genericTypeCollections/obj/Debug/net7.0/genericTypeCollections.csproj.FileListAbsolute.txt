@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\bin\Debug\net7.0\genericTypeCollections.exe
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\bin\Debug\net7.0\genericTypeCollections.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\bin\Debug\net7.0\genericTypeCollections.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\bin\Debug\net7.0\genericTypeCollections.dll
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\bin\Debug\net7.0\genericTypeCollections.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.dll
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\refint\genericTypeCollections.dll
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\genericTypeCollections.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\genericTypeCollections\obj\Debug\net7.0\ref\genericTypeCollections.dll
