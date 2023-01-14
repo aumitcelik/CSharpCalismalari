@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\bin\Debug\net7.0\koleksiyonlarSoru3.exe
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\bin\Debug\net7.0\koleksiyonlarSoru3.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\bin\Debug\net7.0\koleksiyonlarSoru3.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\bin\Debug\net7.0\koleksiyonlarSoru3.dll
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\bin\Debug\net7.0\koleksiyonlarSoru3.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.dll
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\refint\koleksiyonlarSoru3.dll
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\koleksiyonlarSoru3.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\odev2\koleksiyonlarSoru3\obj\Debug\net7.0\ref\koleksiyonlarSoru3.dll
