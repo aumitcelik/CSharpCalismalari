@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\class\bin\Debug\net7.0\class.exe
+C:\Users\umit\Desktop\CSharpCalismalari\class\bin\Debug\net7.0\class.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\class\bin\Debug\net7.0\class.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\class\bin\Debug\net7.0\class.dll
+C:\Users\umit\Desktop\CSharpCalismalari\class\bin\Debug\net7.0\class.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.dll
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\refint\class.dll
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\class.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\class\obj\Debug\net7.0\ref\class.dll
