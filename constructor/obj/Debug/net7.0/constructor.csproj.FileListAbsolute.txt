@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\bin\Debug\net7.0\constructor.exe
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\bin\Debug\net7.0\constructor.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\bin\Debug\net7.0\constructor.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\bin\Debug\net7.0\constructor.dll
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\bin\Debug\net7.0\constructor.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.dll
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\refint\constructor.dll
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\constructor.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\constructor\obj\Debug\net7.0\ref\constructor.dll
