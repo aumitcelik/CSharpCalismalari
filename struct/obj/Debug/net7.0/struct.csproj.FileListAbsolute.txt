@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\struct\bin\Debug\net7.0\struct.exe
+C:\Users\umit\Desktop\CSharpCalismalari\struct\bin\Debug\net7.0\struct.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\struct\bin\Debug\net7.0\struct.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\struct\bin\Debug\net7.0\struct.dll
+C:\Users\umit\Desktop\CSharpCalismalari\struct\bin\Debug\net7.0\struct.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.dll
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\refint\struct.dll
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\struct.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\struct\obj\Debug\net7.0\ref\struct.dll
