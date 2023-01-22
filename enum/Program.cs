@@ -23,7 +23,7 @@ namespace enumDefault
 
 enum Gunler
 {
-    Pazartesi,
+    Pazartesi = 1,
     Salı,
     Çarşamba,
     Perşembe,
