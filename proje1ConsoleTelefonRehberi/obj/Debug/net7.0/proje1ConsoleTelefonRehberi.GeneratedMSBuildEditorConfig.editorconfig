@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = enum
-build_property.ProjectDir = c:\Users\umit\Desktop\CSharpCalismalari\enum\
+build_property.RootNamespace = proje1ConsoleTelefonRehberi
+build_property.ProjectDir = c:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\
