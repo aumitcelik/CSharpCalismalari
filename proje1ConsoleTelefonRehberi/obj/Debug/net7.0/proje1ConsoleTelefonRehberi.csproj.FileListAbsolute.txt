@@ -1,0 +1,15 @@
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\bin\Debug\net7.0\proje1ConsoleTelefonRehberi.exe
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\bin\Debug\net7.0\proje1ConsoleTelefonRehberi.deps.json
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\bin\Debug\net7.0\proje1ConsoleTelefonRehberi.runtimeconfig.json
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\bin\Debug\net7.0\proje1ConsoleTelefonRehberi.dll
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\bin\Debug\net7.0\proje1ConsoleTelefonRehberi.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.AssemblyInfo.cs
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.dll
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\refint\proje1ConsoleTelefonRehberi.dll
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.pdb
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\proje1ConsoleTelefonRehberi.genruntimeconfig.cache
+C:\Users\umit\Desktop\CSharpCalismalari\proje1ConsoleTelefonRehberi\obj\Debug\net7.0\ref\proje1ConsoleTelefonRehberi.dll
