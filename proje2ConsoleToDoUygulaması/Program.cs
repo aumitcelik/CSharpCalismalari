@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace proje2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Directorys directory = new Directorys();
+            directory.Directory();
+        }
+    }
+}
